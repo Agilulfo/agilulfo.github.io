@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://agilulfo.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Ofluliga
+subtitle: Agilulfo sottosopra
+author: Agiululfo
 simple_search: https://www.google.com/search
 description:
 
@@ -31,7 +31,7 @@ permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
-code_dir: downloads/code
+code_dir: downloads/code`
 category_dir: blog/categories
 markdown: rdiscount
 rdiscount:

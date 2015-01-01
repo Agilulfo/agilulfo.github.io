@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Yo"
+date: 2015-01-01 23:53:06 +0100
+comments: true
+categories: blog
+---
+Benvenuti nel blog di Agilulfo!
